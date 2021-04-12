@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+冲冲冲，四驱战士在行动
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucisl&hide_title=true&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucisl&layout=compact&theme=great-gatsby)
